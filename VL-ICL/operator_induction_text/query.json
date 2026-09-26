@@ -1,0 +1,362 @@
+[
+    {
+        "id": "math_induction_text_query_0_1_+",
+        "question": "What is the result of the following mathematical expression? 0 ? 1",
+        "operator": "+",
+        "answer": 1
+    },
+    {
+        "id": "math_induction_text_query_0_5_+",
+        "question": "What is the result of the following mathematical expression? 0 ? 5",
+        "operator": "+",
+        "answer": 5
+    },
+    {
+        "id": "math_induction_text_query_0_9_+",
+        "question": "What is the result of the following mathematical expression? 0 ? 9",
+        "operator": "+",
+        "answer": 9
+    },
+    {
+        "id": "math_induction_text_query_1_1_+",
+        "question": "What is the result of the following mathematical expression? 1 ? 1",
+        "operator": "+",
+        "answer": 2
+    },
+    {
+        "id": "math_induction_text_query_2_7_+",
+        "question": "What is the result of the following mathematical expression? 2 ? 7",
+        "operator": "+",
+        "answer": 9
+    },
+    {
+        "id": "math_induction_text_query_2_8_+",
+        "question": "What is the result of the following mathematical expression? 2 ? 8",
+        "operator": "+",
+        "answer": 10
+    },
+    {
+        "id": "math_induction_text_query_3_1_+",
+        "question": "What is the result of the following mathematical expression? 3 ? 1",
+        "operator": "+",
+        "answer": 4
+    },
+    {
+        "id": "math_induction_text_query_3_2_+",
+        "question": "What is the result of the following mathematical expression? 3 ? 2",
+        "operator": "+",
+        "answer": 5
+    },
+    {
+        "id": "math_induction_text_query_5_0_+",
+        "question": "What is the result of the following mathematical expression? 5 ? 0",
+        "operator": "+",
+        "answer": 5
+    },
+    {
+        "id": "math_induction_text_query_6_5_+",
+        "question": "What is the result of the following mathematical expression? 6 ? 5",
+        "operator": "+",
+        "answer": 11
+    },
+    {
+        "id": "math_induction_text_query_6_7_+",
+        "question": "What is the result of the following mathematical expression? 6 ? 7",
+        "operator": "+",
+        "answer": 13
+    },
+    {
+        "id": "math_induction_text_query_6_9_+",
+        "question": "What is the result of the following mathematical expression? 6 ? 9",
+        "operator": "+",
+        "answer": 15
+    },
+    {
+        "id": "math_induction_text_query_7_3_+",
+        "question": "What is the result of the following mathematical expression? 7 ? 3",
+        "operator": "+",
+        "answer": 10
+    },
+    {
+        "id": "math_induction_text_query_7_4_+",
+        "question": "What is the result of the following mathematical expression? 7 ? 4",
+        "operator": "+",
+        "answer": 11
+    },
+    {
+        "id": "math_induction_text_query_7_7_+",
+        "question": "What is the result of the following mathematical expression? 7 ? 7",
+        "operator": "+",
+        "answer": 14
+    },
+    {
+        "id": "math_induction_text_query_8_2_+",
+        "question": "What is the result of the following mathematical expression? 8 ? 2",
+        "operator": "+",
+        "answer": 10
+    },
+    {
+        "id": "math_induction_text_query_8_8_+",
+        "question": "What is the result of the following mathematical expression? 8 ? 8",
+        "operator": "+",
+        "answer": 16
+    },
+    {
+        "id": "math_induction_text_query_9_0_+",
+        "question": "What is the result of the following mathematical expression? 9 ? 0",
+        "operator": "+",
+        "answer": 9
+    },
+    {
+        "id": "math_induction_text_query_9_3_+",
+        "question": "What is the result of the following mathematical expression? 9 ? 3",
+        "operator": "+",
+        "answer": 12
+    },
+    {
+        "id": "math_induction_text_query_9_5_+",
+        "question": "What is the result of the following mathematical expression? 9 ? 5",
+        "operator": "+",
+        "answer": 14
+    },
+    {
+        "id": "math_induction_text_query_0_1_-",
+        "question": "What is the result of the following mathematical expression? 0 ? 1",
+        "operator": "-",
+        "answer": -1
+    },
+    {
+        "id": "math_induction_text_query_0_5_-",
+        "question": "What is the result of the following mathematical expression? 0 ? 5",
+        "operator": "-",
+        "answer": -5
+    },
+    {
+        "id": "math_induction_text_query_0_9_-",
+        "question": "What is the result of the following mathematical expression? 0 ? 9",
+        "operator": "-",
+        "answer": -9
+    },
+    {
+        "id": "math_induction_text_query_1_1_-",
+        "question": "What is the result of the following mathematical expression? 1 ? 1",
+        "operator": "-",
+        "answer": 0
+    },
+    {
+        "id": "math_induction_text_query_2_7_-",
+        "question": "What is the result of the following mathematical expression? 2 ? 7",
+        "operator": "-",
+        "answer": -5
+    },
+    {
+        "id": "math_induction_text_query_2_8_-",
+        "question": "What is the result of the following mathematical expression? 2 ? 8",
+        "operator": "-",
+        "answer": -6
+    },
+    {
+        "id": "math_induction_text_query_3_1_-",
+        "question": "What is the result of the following mathematical expression? 3 ? 1",
+        "operator": "-",
+        "answer": 2
+    },
+    {
+        "id": "math_induction_text_query_3_2_-",
+        "question": "What is the result of the following mathematical expression? 3 ? 2",
+        "operator": "-",
+        "answer": 1
+    },
+    {
+        "id": "math_induction_text_query_5_0_-",
+        "question": "What is the result of the following mathematical expression? 5 ? 0",
+        "operator": "-",
+        "answer": 5
+    },
+    {
+        "id": "math_induction_text_query_6_5_-",
+        "question": "What is the result of the following mathematical expression? 6 ? 5",
+        "operator": "-",
+        "answer": 1
+    },
+    {
+        "id": "math_induction_text_query_6_7_-",
+        "question": "What is the result of the following mathematical expression? 6 ? 7",
+        "operator": "-",
+        "answer": -1
+    },
+    {
+        "id": "math_induction_text_query_6_9_-",
+        "question": "What is the result of the following mathematical expression? 6 ? 9",
+        "operator": "-",
+        "answer": -3
+    },
+    {
+        "id": "math_induction_text_query_7_3_-",
+        "question": "What is the result of the following mathematical expression? 7 ? 3",
+        "operator": "-",
+        "answer": 4
+    },
+    {
+        "id": "math_induction_text_query_7_4_-",
+        "question": "What is the result of the following mathematical expression? 7 ? 4",
+        "operator": "-",
+        "answer": 3
+    },
+    {
+        "id": "math_induction_text_query_7_7_-",
+        "question": "What is the result of the following mathematical expression? 7 ? 7",
+        "operator": "-",
+        "answer": 0
+    },
+    {
+        "id": "math_induction_text_query_8_2_-",
+        "question": "What is the result of the following mathematical expression? 8 ? 2",
+        "operator": "-",
+        "answer": 6
+    },
+    {
+        "id": "math_induction_text_query_8_8_-",
+        "question": "What is the result of the following mathematical expression? 8 ? 8",
+        "operator": "-",
+        "answer": 0
+    },
+    {
+        "id": "math_induction_text_query_9_0_-",
+        "question": "What is the result of the following mathematical expression? 9 ? 0",
+        "operator": "-",
+        "answer": 9
+    },
+    {
+        "id": "math_induction_text_query_9_3_-",
+        "question": "What is the result of the following mathematical expression? 9 ? 3",
+        "operator": "-",
+        "answer": 6
+    },
+    {
+        "id": "math_induction_text_query_9_5_-",
+        "question": "What is the result of the following mathematical expression? 9 ? 5",
+        "operator": "-",
+        "answer": 4
+    },
+    {
+        "id": "math_induction_text_query_0_1_x",
+        "question": "What is the result of the following mathematical expression? 0 ? 1",
+        "operator": "x",
+        "answer": 0
+    },
+    {
+        "id": "math_induction_text_query_0_5_x",
+        "question": "What is the result of the following mathematical expression? 0 ? 5",
+        "operator": "x",
+        "answer": 0
+    },
+    {
+        "id": "math_induction_text_query_0_9_x",
+        "question": "What is the result of the following mathematical expression? 0 ? 9",
+        "operator": "x",
+        "answer": 0
+    },
+    {
+        "id": "math_induction_text_query_1_1_x",
+        "question": "What is the result of the following mathematical expression? 1 ? 1",
+        "operator": "x",
+        "answer": 1
+    },
+    {
+        "id": "math_induction_text_query_2_7_x",
+        "question": "What is the result of the following mathematical expression? 2 ? 7",
+        "operator": "x",
+        "answer": 14
+    },
+    {
+        "id": "math_induction_text_query_2_8_x",
+        "question": "What is the result of the following mathematical expression? 2 ? 8",
+        "operator": "x",
+        "answer": 16
+    },
+    {
+        "id": "math_induction_text_query_3_1_x",
+        "question": "What is the result of the following mathematical expression? 3 ? 1",
+        "operator": "x",
+        "answer": 3
+    },
+    {
+        "id": "math_induction_text_query_3_2_x",
+        "question": "What is the result of the following mathematical expression? 3 ? 2",
+        "operator": "x",
+        "answer": 6
+    },
+    {
+        "id": "math_induction_text_query_5_0_x",
+        "question": "What is the result of the following mathematical expression? 5 ? 0",
+        "operator": "x",
+        "answer": 0
+    },
+    {
+        "id": "math_induction_text_query_6_5_x",
+        "question": "What is the result of the following mathematical expression? 6 ? 5",
+        "operator": "x",
+        "answer": 30
+    },
+    {
+        "id": "math_induction_text_query_6_7_x",
+        "question": "What is the result of the following mathematical expression? 6 ? 7",
+        "operator": "x",
+        "answer": 42
+    },
+    {
+        "id": "math_induction_text_query_6_9_x",
+        "question": "What is the result of the following mathematical expression? 6 ? 9",
+        "operator": "x",
+        "answer": 54
+    },
+    {
+        "id": "math_induction_text_query_7_3_x",
+        "question": "What is the result of the following mathematical expression? 7 ? 3",
+        "operator": "x",
+        "answer": 21
+    },
+    {
+        "id": "math_induction_text_query_7_4_x",
+        "question": "What is the result of the following mathematical expression? 7 ? 4",
+        "operator": "x",
+        "answer": 28
+    },
+    {
+        "id": "math_induction_text_query_7_7_x",
+        "question": "What is the result of the following mathematical expression? 7 ? 7",
+        "operator": "x",
+        "answer": 49
+    },
+    {
+        "id": "math_induction_text_query_8_2_x",
+        "question": "What is the result of the following mathematical expression? 8 ? 2",
+        "operator": "x",
+        "answer": 16
+    },
+    {
+        "id": "math_induction_text_query_8_8_x",
+        "question": "What is the result of the following mathematical expression? 8 ? 8",
+        "operator": "x",
+        "answer": 64
+    },
+    {
+        "id": "math_induction_text_query_9_0_x",
+        "question": "What is the result of the following mathematical expression? 9 ? 0",
+        "operator": "x",
+        "answer": 0
+    },
+    {
+        "id": "math_induction_text_query_9_3_x",
+        "question": "What is the result of the following mathematical expression? 9 ? 3",
+        "operator": "x",
+        "answer": 27
+    },
+    {
+        "id": "math_induction_text_query_9_5_x",
+        "question": "What is the result of the following mathematical expression? 9 ? 5",
+        "operator": "x",
+        "answer": 45
+    }
+]
